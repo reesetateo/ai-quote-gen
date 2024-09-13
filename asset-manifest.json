@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-quote-gen/static/css/main.1c851f0d.css",
-    "main.js": "/ai-quote-gen/static/js/main.09688386.js",
+    "main.js": "/ai-quote-gen/static/js/main.b4e52069.js",
     "static/js/453.7104882e.chunk.js": "/ai-quote-gen/static/js/453.7104882e.chunk.js",
     "index.html": "/ai-quote-gen/index.html",
     "main.1c851f0d.css.map": "/ai-quote-gen/static/css/main.1c851f0d.css.map",
-    "main.09688386.js.map": "/ai-quote-gen/static/js/main.09688386.js.map",
+    "main.b4e52069.js.map": "/ai-quote-gen/static/js/main.b4e52069.js.map",
     "453.7104882e.chunk.js.map": "/ai-quote-gen/static/js/453.7104882e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c851f0d.css",
-    "static/js/main.09688386.js"
+    "static/js/main.b4e52069.js"
   ]
 }
