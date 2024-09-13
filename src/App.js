@@ -8,11 +8,13 @@ function App() {
   const [error, setError] = useState('');
   const [showInstructions, setShowInstructions] = useState(false);
 
+  const API_URL = 'https://ai-quote-backend-f9f611699b31.herokuapp.com/' ;
+
   const fetchQuote = async () => {
     setLoading(true);
     setError('');
     try {
-      const response = await fetch('http://localhost:5000/get-quote', {
+      const response = await fetch(`${API_URL}/get-quote`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
